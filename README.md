@@ -4,8 +4,7 @@
 <a><img src='https://files.catbox.moe/7z5x3q.jpg'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/CHMA2009"><img title="Developer" src="https://img.shields.io/badge/Author-Mr%20chamaofc-FF7604.svg?style=big-square&logo=github" /></a>
-</p>
+  
 > **PAIR CODE SESSION ID**
 
 <a href='https://rika-xmd-pair.onrender.com/pair' target="_blank">
