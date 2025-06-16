@@ -64,3 +64,17 @@ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHAT
 <a href='https://wa.me/+94787026652?text=*ʜɪɪ+ʀɪᴋᴀ+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+ʀɪᴋᴀ-xᴍᴅ+ʀᴇᴘᴏ!!*' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/< width=150 height=28/p></a> </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ---
+## 🌐 WhatsApp Channel 
+
+---
+
+Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
+
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb9kW8MHgZWmcFAovd21)
+
+---
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
