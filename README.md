@@ -5,8 +5,19 @@
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
-### GitHub Actions Workflows
+# Deployment
 
+You can deploy this bot for free on the following platforms:
+
+---
+### <h4 align="">1. HEROKU</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/pakebijja/RIKA-XMD-V1)
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+### GitHub Actions Workflows
 #### Node.js CI
 
 You can set up a continuous integration workflow by creating a `.github/workflows/nodejs.yml` file with the following content:
